@@ -1,4 +1,4 @@
-## Desvendando Atletas
+## Desvendando Atletas - Imersão Dev com Google Gemini
 
 **O que faz essa aplicação?**
 
